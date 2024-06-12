@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hello and thanks for stumbling onto my Github profile.
+## My name is Halle and I'm here to showcase my programming skills 😎
+<details>
+
+  <summary>About Me</summary>
+
+  | Working On | Learning | Languages
+  | -------- | -------- |----------
+  | Creating Effective Data Visualizations   | Maching Learning Algorithms    | Python
+  | Github Profile   | Data Mining   | R/R Studio
+  </details>
+
+<div id="badges" align = "center">
+  <a href="https://www.linkedin.com/in/halle-fortune-6878071ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!--
 **hfortune3/hfortune3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
