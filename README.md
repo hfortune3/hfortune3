@@ -1,4 +1,4 @@
-## Hello and thanks for stumbling onto my Github profile.
+## Hello and thanks for stumbling onto my Github profile
 ## My name is Halle and I'm here to showcase my programming skills 😎
 <details>
 
